@@ -69,4 +69,4 @@ Whether you're a casual enthusiast or a professional trader, this dashboard prov
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/yourusername/cryptocurrency-dashboard.git
+   git clone https://github.com/agam25rpro/CryptoCurrency-Dashboard
