@@ -58,10 +58,10 @@ Whether you're a casual enthusiast or a professional trader, this dashboard prov
 ## 📷 Dashboard Preview
 
 ### Page 1
-![Page 1 Preview](./assets/page1.png)
+![Page 1 Preview](crypto_page1.png)
 
 ### Page 2
-![Page 2 Preview](./assets/page2.png)
+![Page 2 Preview](crypto_page2.png)
 
 ---
 
